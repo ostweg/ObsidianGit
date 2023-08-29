@@ -4,58 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "21700ee7c54b600b",
+        "id": "fbb5d1bc7a684f10",
         "type": "tabs",
         "children": [
           {
-            "id": "99ba202f697991f3",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "ML/Gradients.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
-            "id": "4101e6fa14b5106f",
+            "id": "32aeb6dfc178b8d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Gradients.md",
+                "file": "ML/Basics/Vectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77f54b1dfbad43fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Model/Activation Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5949de08a3efd137",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Model/Activation Functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,9 +61,11 @@
             "id": "53a7904306edb8d8",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "markdown",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "ML/Basics/Tensor.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -100,8 +91,27 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "035dd136b7b0dee4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "1481e10a5a5ddd15",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -121,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Gradients.md",
+                "file": "ML/Model/Activation Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Gradients.md",
+                "file": "ML/Model/Activation Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Gradients.md"
+                "file": "ML/Model/Activation Functions.md"
               }
             }
           }
@@ -182,13 +192,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4101e6fa14b5106f",
+  "active": "5949de08a3efd137",
   "lastOpenFiles": [
-    "ML/Tensor.md",
-    "ML/Gradients.md",
-    "ML/Matrices.md",
+    "ML/Model/Hidden Layer.md",
+    "ML/Model/Activation Functions.md",
+    "ML/Model/Loss Functions.md",
+    "ML/Basics/Vectors.md",
+    "ML/Model",
+    "ML/Basics/Tensor.md",
+    "ML/Basics/Untitled.md",
+    "ML/Basics",
+    "ML/Basics/GPU.md",
+    "ML/Basics/Matrices.md",
+    "ML/Basics/Gradients.md",
     "Untitled.ipynb",
-    "ML/Vectors.md",
     "Vector.md",
     "ML",
     "2023-08-28.md"
