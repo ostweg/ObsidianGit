@@ -4,24 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "a9fb30b6a3eed291",
+        "id": "21700ee7c54b600b",
         "type": "tabs",
         "children": [
           {
-            "id": "643fccd802a974c6",
+            "id": "99ba202f697991f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "localgraph",
+              "state": {
+                "file": "ML/Gradients.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
             }
           },
           {
-            "id": "54b2e86141c4d1e7",
+            "id": "4101e6fa14b5106f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Test.md",
+                "file": "ML/Gradients.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Test.md",
+                "file": "ML/Gradients.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Test.md",
+                "file": "ML/Gradients.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Test.md"
+                "file": "ML/Gradients.md"
               }
             }
           }
@@ -155,10 +182,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54b2e86141c4d1e7",
+  "active": "4101e6fa14b5106f",
   "lastOpenFiles": [
-    "ML/Test.md",
-    "ML/Test.md",
+    "ML/Tensor.md",
+    "ML/Gradients.md",
+    "ML/Matrices.md",
+    "Untitled.ipynb",
+    "ML/Vectors.md",
+    "Vector.md",
     "ML",
     "2023-08-28.md"
   ]
